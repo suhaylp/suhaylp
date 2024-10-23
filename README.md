@@ -1,4 +1,4 @@
-### Hi, I'm Suhayl! 👋
+# Hi, I'm Suhayl! 👋
 <!--#### Check out some of my projects below!
 
 
