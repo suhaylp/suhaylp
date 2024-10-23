@@ -1,4 +1,5 @@
-### Welcome to my GitHub profile! 👋
+### Hi, I'm Suhayl! 👋
+#### Check out some of my projects below!
 
 <!--
 **suhaylp/suhaylp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
