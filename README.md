@@ -1,7 +1,7 @@
 ### Hi, I'm Suhayl! 👋
-#### Check out some of my projects below!
+<!--#### Check out some of my projects below!
 
-<!--
+
 **suhaylp/suhaylp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
