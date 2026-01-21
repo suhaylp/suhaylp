@@ -1,5 +1,7 @@
 # Hi, I'm Suhayl! 👋
 
+### I code (and do other things lol)
+
 <!--#### Check out some of my projects below!
 
 
